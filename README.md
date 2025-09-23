@@ -25,6 +25,7 @@ It contains simple explanations, easy-to-follow examples, and ready-to-use snipp
 - **README.md** – This main guide.  
 - **LICENSE** – MIT license for this project.  
 - **CONTRIBUTING.md** – Guidelines for contributing. 
+- **CHEATSHEET.md** – Markdown to display Git cheat sheet images. 
 - **public/** – Cheat sheets images.
 
 - **guides/** – Introduction to Git & GitHub:  
