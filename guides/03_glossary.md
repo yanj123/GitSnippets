@@ -8,6 +8,7 @@ A beginner-friendly glossary of commonly used Git and GitHub terms.
 
 **Add**  
 Command to stage files for the next commit. Example:  
+
   ```bash
   git add file.txt
   ```
@@ -17,6 +18,7 @@ A separate line of development. Lets you work on new features without affecting 
 
 **Clone**  
 Copy a remote repository from GitHub to your local machine.
+
   ```bash
   git clone <repo-url>
   ```
@@ -40,6 +42,7 @@ A personal copy of someone else’s GitHub repository. Common in open-source con
 
 **Fetch**  
 Downloads changes from a remote repository but does not merge them automatically.
+
   ```bash
   git fetch
   ```
@@ -77,12 +80,14 @@ Combines changes from one branch into another.
 
 **Pull**  
 Downloads and merges changes from a remote repository to your local repo.
+
   ```bash
   git pull
   ```
 
 **Push**  
 Uploads your local commits to a remote repository (e.g., GitHub).
+
   ```bash
   git push
   ```
@@ -102,6 +107,7 @@ A project folder that Git tracks. It can be local or hosted on GitHub.
 
 **Revert**  
 Undo a commit by creating a new commit that reverses the changes.
+
   ```bash
   git revert <commit-hash>
   ```
@@ -130,4 +136,4 @@ A command-line interface where you run Git commands.
 
 > ✅ This glossary will keep expanding as you learn more commands and concepts.
 
-> Next step → Explore [Git Snippets](https://github.com/Akshat7garg/GitSnippets/blob/main/snippets/create_repository.md).
+> Next step → Explore [Git Snippets](https://github.com/Akshat7garg/GitSnippets/blob/main/snippets/01_create_repository.md).

@@ -7,6 +7,7 @@ This guide will help you **install Git** on your system and configure it for the
 ## 1. Install Git
 
 ### 🖥️ Windows
+
 - Download the latest version of Git from [git-scm.com](https://git-scm.com/download/win).  
 - This will install **Git Bash**, a terminal application where you can run Git commands.  
 - During installation, you can keep most settings default. Make sure:
@@ -15,12 +16,15 @@ This guide will help you **install Git** on your system and configure it for the
   - ✅ Use "main" as the default branch name.
 
 ### 🍎 macOS
+
 - If you have **Homebrew** installed:
+
   ```bash
   brew install git
   ```
 
 - Or, install **Xcode** Command Line Tools:
+
   ```bash
   xcode-select --install
   ```
@@ -28,6 +32,7 @@ This guide will help you **install Git** on your system and configure it for the
 - Alternatively, download directly from [git-scm.com](https://git-scm.com/download/win).
 
 ### 🐧 Linux (Ubuntu/Debian)
+
 - Update packages and install Git:
 
   ```bash
@@ -42,6 +47,7 @@ This guide will help you **install Git** on your system and configure it for the
   ```
 
 ### ✅ Verify Installation
+
 After installation, check your Git version:
 
   ```bash
@@ -51,14 +57,17 @@ After installation, check your Git version:
 ---
 
 ## 2. Configure Git (First-Time Setup)
+
 You need to tell Git who you are (name & email). This info is used for commits.
 
 ### Set Username
+
   ```bash
   git config --global user.name "Your Name"
   ```
 
 ### Set Email
+
   ```bash
   git config --global user.email "your.email@example.com"
   ```
@@ -66,11 +75,13 @@ You need to tell Git who you are (name & email). This info is used for commits.
 >⚠️ Use the same email that you registered with GitHub so commits are linked to your profile.
 
 ### Check Configuration
+
   ```bash
   git config --list
   ```
 
 ### Example Output
+
   ```bash
   user.name=John Doe
   user.email=johndoe@example.com
@@ -81,16 +92,19 @@ You need to tell Git who you are (name & email). This info is used for commits.
 ## 3. Optional but Recommended Configuration
 
 ### Set Default Branch Name to `main`
+
   ```bash
   git config --global init.defaultBranch main
   ```
 
 ### Set VS Code as Default Editor
+
   ```bash
   git config --global core.editor "code --wait"
   ```
 
 ### Enable Color in Git Output
+
   ```bash
   git config --global color.ui auto
   ```
@@ -98,13 +112,16 @@ You need to tell Git who you are (name & email). This info is used for commits.
 ---
 
 ## 4. Where is Git Config Stored?
+
 Git saves your settings in a file on your system:
+
 - Global config: `~/.gitconfig` (applies to all repositories)
 - Local config: `.git/config` (inside a specific repository)
 
 ---
 
-## ✅ You’re Ready!
+## ✅ You’re Ready
+
 At this point:
 
 - Git is installed.
@@ -113,4 +130,4 @@ At this point:
 
 ---
 
-> Next step → Learn the [Common terms in GitHub](https://github.com/Akshat7garg/GitSnippets/blob/main/guides/glossary.md).
+> Next step → Learn the [Common terms in GitHub](https://github.com/Akshat7garg/GitSnippets/blob/main/guides/03_glossary.md).
